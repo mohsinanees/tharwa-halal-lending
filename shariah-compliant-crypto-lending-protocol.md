@@ -174,7 +174,7 @@ They DON'T give borrowers money from the deposit pool directly. Instead:
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    SHARIAH-COMPLIANT FLOW                    │
+│                    SHARIAH-COMPLIANT FLOW                   │
 └─────────────────────────────────────────────────────────────┘
 
 INVESTOR SIDE (Mudarabah):
@@ -224,8 +224,8 @@ BORROWER SIDE (Murabaha):
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│              THARWA SHARIAH LENDING PROTOCOL                 │
-│           (Mudarabah + Murabaha Hybrid Model)                │
+│              THARWA SHARIAH LENDING PROTOCOL                │
+│           (Mudarabah + Murabaha Hybrid Model)               │
 └─────────────────────────────────────────────────────────────┘
                               │
         ┌─────────────────────┼─────────────────────┐
