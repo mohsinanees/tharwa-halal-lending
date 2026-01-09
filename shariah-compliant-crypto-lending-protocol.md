@@ -49,8 +49,7 @@ We replace interest-based lending with Islamic trading structures:
 4. [How It Works: Complete Flow](#4-how-it-works-complete-flow)
 5. [Economic Model](#5-economic-model)
 6. [Risk Management](#6-risk-management)
-7. [Implementation Roadmap](#7-implementation-roadmap)
-8. [Shariah Certification](#8-shariah-certification)
+7. [Shariah Certification](#7-shariah-certification)
 
 ---
 
@@ -1103,9 +1102,9 @@ Annualized equivalent: ~33% APY
 
 ---
 
-## 8. Shariah Certification
+## 7. Shariah Certification
 
-### 8.1 Compliance Checklist
+### 7.1 Compliance Checklist
 
 **✅ No Riba (Interest):**
 - Investors deposit USDC → Earn USDC from trading (not interest)
@@ -1142,7 +1141,7 @@ Annualized equivalent: ~33% APY
 - Repayment in different asset (USDC not ETH)
 - No penalty for early repayment
 
-### 8.2 Ongoing Compliance Measures
+### 7.2 Ongoing Compliance Measures
 
 **Quarterly Shariah Audits:**
 - Review all new features and changes
